@@ -1,4 +1,4 @@
-define("anima/class/2.0.0/class-debug", [], function(require, exports, module) {
+define("anima/class/1.0.0/class-debug", [], function(require, exports, module) {
     // Class
     // -----------------
     // Thanks to:
