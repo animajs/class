@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "keywords": ["infrastructure"],
     "description": "提供简洁的 OO 实现。",
-    "homepage": "http://aralejs.org/class/",
+    "homepage": "http://animajs.org/class/",
     "author": "玉伯 <lifesinger@gmail.com>",
     "maintainers": [
         "玉伯 <lifesinger@gmail.com>",
@@ -12,10 +12,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/aralejs/class.git"
+        "url": "https://github.com/animajs/class.git"
     },
     "bugs": {
-        "url": "https://github.com/aralejs/class/issues"
+        "url": "https://github.com/animajs/class/issues"
     },
     "spm": {
         "main": "index.js"
