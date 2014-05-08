@@ -1,2 +1,2 @@
 
-module.exports = require('src/class');
+module.exports = require('./src/class');
