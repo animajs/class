@@ -1,6 +1,5 @@
 {
-    "name": "class",
-    "family": "anima",
+    "name": "anima-class",
     "version": "1.0.0",
     "keywords": ["infrastructure"],
     "description": "提供简洁的 OO 实现。",
@@ -19,6 +18,6 @@
         "url": "https://github.com/aralejs/class/issues"
     },
     "spm": {
-        "output": ["class.js"]
+        "main": "index.js"
     }
 }
